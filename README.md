@@ -61,10 +61,10 @@ I'm an **AI Engineer** with 1 year of experience, passionate about innovation an
 - **Conversational Agent for Tutors:**  
   Developed a system based on LLaMa2 and RAG techniques to support both students and teachers.
 
-- **Radiological Report Classifier:**  
+- **[Radiological Report Classifier:](https://github.com/alvaroherrera-33/radnlp)**  
   Participated in the RADNLP competition, achieving notable rankings.
 
-- **Medical Report Simplification:**  
+- **[Medical Report Simplification](https://github.com/alvaroherrera-33/cardiologia)**  
   Used LLMs to simplify complex medical reports for greater accessibility.
 
 - **Counter-Narrative Web Service:**  
